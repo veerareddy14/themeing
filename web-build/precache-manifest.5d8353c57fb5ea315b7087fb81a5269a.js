@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/./fonts/SimpleLineIcons.ttf"
   },
   {
-    "revision": "2ede90198ced99cdf52119ef632cddcb",
+    "revision": "47705251d09beecefbeeab7ee635e8aa",
     "url": "/index.html"
   },
   {
