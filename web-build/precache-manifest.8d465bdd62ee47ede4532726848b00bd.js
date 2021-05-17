@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~app.2e9f1821.js"
   },
   {
-    "revision": "8f69789fa1412a94471b",
-    "url": "/static/js/2.2c5b9918.chunk.js"
+    "revision": "854d3a669a248889ccbc",
+    "url": "/static/js/2.1e0e3d0e.chunk.js"
   },
   {
     "revision": "fa999fb12b344af0828dc4e902a2ef10",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/./fonts/SimpleLineIcons.ttf"
   },
   {
-    "revision": "81b317b6e6f5f6139b967ecc8dec7833",
+    "revision": "f9824e4e32d26003d9ed11f768323c99",
     "url": "/index.html"
   },
   {
@@ -85,7 +85,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "71dc43b3f7512e5d9575fba19e25835a",
-    "url": "/static/js/2.2c5b9918.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.1e0e3d0e.chunk.js.LICENSE.txt"
   },
   {
     "revision": "d324ddc823eca6c86688f62576c81e76",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/favicon.ico"
   },
   {
-    "revision": "d6b2c02747a0b53bed44fc5ca0a4389f",
+    "revision": "25679bd99a74fafaabaf22aa728046b8",
     "url": "/manifest.json"
   }
 ];
