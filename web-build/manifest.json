@@ -1,4 +1,5 @@
 {
+	"theme_color": "#ffaa57",
 	"background_color": "#5773ff",
 	"display": "standalone",
 	"lang": "en",
@@ -6,7 +7,6 @@
 	"short_name": "themeing",
 	"start_url": "/?utm_source=web_app_manifest",
 	"orientation": "portrait",
-	"theme_color": "#ffaa57",
 	"related_applications": [
 		{
 			"platform": "itunes",
