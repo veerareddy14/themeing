@@ -2,24 +2,16 @@ import { DefaultTheme, DarkTheme } from "react-native-paper";
 
 export const CustomDefaultTheme = {
 	...DefaultTheme,
-	// dark: true,
 	colors: {
 		...DefaultTheme.colors,
-		// primary: "#2196F3",
-		// text: "white",
 	},
-	// borderRadius: 20,
 };
 
 export const CustomDarkTheme = {
 	...DarkTheme,
-	// dark: true,
 	colors: {
 		...DarkTheme.colors,
-		// primary: "#2196F3",
-		// text: "white",
 	},
-	// borderRadius: 20,
 };
 
 export const RedTheme = {
@@ -28,7 +20,6 @@ export const RedTheme = {
 	colors: {
 		...DefaultTheme.colors,
 		primary: "red",
-		// text: "white",
 	},
 	borderRadius: 20,
 };
@@ -39,7 +30,6 @@ export const BlueTheme = {
 	colors: {
 		...DefaultTheme.colors,
 		primary: "blue",
-		// text: "white",
 	},
 	borderRadius: 20,
 };
@@ -49,7 +39,6 @@ export const GreenTheme = {
 	colors: {
 		...DefaultTheme.colors,
 		primary: "green",
-		// text: "white",
 	},
 	borderRadius: 20,
 };
@@ -59,7 +48,6 @@ export const OrangeTheme = {
 	colors: {
 		...DefaultTheme.colors,
 		primary: "orange",
-		// text: "white",
 	},
 	borderRadius: 20,
 };
@@ -69,7 +57,6 @@ export const YellowTheme = {
 	colors: {
 		...DefaultTheme.colors,
 		primary: "yellow",
-		// text: "white",
 	},
 	borderRadius: 20,
 };
