@@ -47,6 +47,20 @@ const Settings = () => {
 						</ImageBackground>
 					</TouchableOpacity>
 				</View>
+				<View style={styles(theme).item}>
+					<TouchableOpacity onPress={() => navigation.navigate("Download")}>
+						<ImageBackground
+							source={check}
+							style={styles(theme).image}
+							imageStyle={{
+								alignSelf: "center",
+								opacity: 0.8,
+							}}
+						>
+							<Text style={styles(theme).label}>Button</Text>
+						</ImageBackground>
+					</TouchableOpacity>
+				</View>
 			</View>
 		</ScrollView>
 	);

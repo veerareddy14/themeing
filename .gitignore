@@ -7,3 +7,6 @@ npm-debug.*
 *.key
 *.mobileprovision
 *.orig.*
+
+# macOS
+.DS_Store

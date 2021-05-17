@@ -6,6 +6,7 @@ import Check from "./Check";
 import Settings from "./Settings";
 import Display from "./Display";
 import Theming from "./Theming";
+import DownloadButton from "./DownloadButton";
 
 const Stack = createStackNavigator();
 
@@ -39,6 +40,11 @@ const Home = () => {
 					name="Check"
 					component={Check}
 					options={{ title: "Check" }}
+				/>
+				<Stack.Screen
+					name="Download"
+					component={DownloadButton}
+					options={{ title: "Download Button" }}
 				/>
 			</Stack.Navigator>
 		</NavigationContainer>

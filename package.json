@@ -27,6 +27,7 @@
 		"@expo/electron-adapter": "0.0.55",
 		"@expo/webpack-config": "^0.12.71",
 		"autoprefixer": "^10.2.5",
+		"babel-preset-expo": "^8.3.0",
 		"postcss-cli": "^8.3.1",
 		"tailwindcss": "^2.1.2"
 	},
